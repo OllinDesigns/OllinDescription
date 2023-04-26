@@ -1,6 +1,3 @@
-# OllinDescription
-For my profile
-
 # 💫 About Me:
 
 👯 I’m looking for a job as Junior Front end Developer
